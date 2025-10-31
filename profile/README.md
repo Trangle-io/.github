@@ -27,10 +27,7 @@ We combine technical precision with design excellence to help businesses innovat
 
 | Project | Description | Stack |
 |----------|--------------|-------|
-| 🧩 **Cube360** | Vehicle Auction & Listing Management Platform | .NET 8, Angular 17, PostgreSQL, Hangfire |
-| 💊 **Pharmacare** | Pharmacy Inventory, POS & Identity Management | .NET 8, Angular 17, Cloud Run |
 | 🍽️ **ZestyPOS** | Restaurant POS & Food Management SaaS | .NET 8, Angular 18, PostgreSQL |
-| 🏠 **RetailerLocation** | Retailer Visit Tracking PWA for DSR Teams | Angular 18 (PWA), Google Apps Script |
 | 🌴 **Ceylon Fusion** | Multilingual Food Truck Website with Headless CMS | Next.js 15, Tailwind CSS |
 
 ---
